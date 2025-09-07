@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim  
 
-Estudante de **Sistemas de Informação desde 2024/1**, sou apaixonado por **computação** e busco experiências que possam agregar à minha formação e me ajudar a crescer profissionalmente.  
+Estudante de **Sistemas de Informação desde 2024/4**, sou apaixonado por **computação** e busco experiências que possam agregar à minha formação e me ajudar a crescer profissionalmente.  
 
 Sou uma pessoa que **se esforça ao máximo** para alcançar meus objetivos e tenho **facilidade em aprender novas tecnologias**.  
 
